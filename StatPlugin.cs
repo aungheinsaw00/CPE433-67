@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//extended_version
 namespace DNWS
 {
   class StatPlugin : IPlugin

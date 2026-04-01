@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CPE433-67", "CPE433-67", "{14001899-C408-C2D5-1F61-995F51CEBB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNWS", "CPE433-67\DNWS.csproj", "{A1D3291B-85AB-7BDF-6701-B86A05B5F53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D3291B-85AB-7BDF-6701-B86A05B5F53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D3291B-85AB-7BDF-6701-B86A05B5F53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D3291B-85AB-7BDF-6701-B86A05B5F53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D3291B-85AB-7BDF-6701-B86A05B5F53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1D3291B-85AB-7BDF-6701-B86A05B5F53F} = {14001899-C408-C2D5-1F61-995F51CEBB18}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C343C31-CA75-405B-A141-6E60A17CFA73}
+	EndGlobalSection
+EndGlobal
